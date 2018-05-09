@@ -1,0 +1,7 @@
+DEPENDENCIES
+  haproxy
+    path: .
+    metadata: true
+
+GRAPH
+  haproxy (0.1.0)
